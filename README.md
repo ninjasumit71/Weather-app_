@@ -39,7 +39,7 @@ The Weather App is a web-based application that allows users to check the curren
 ```git clone https://github.com/yourusername/weather-app.git```
 
 2. Open the project folder:
-3. 3. Open `index.html` in your preferred web browser.
+3. Open `index.html` in your preferred web browser.
 
 ## Usage
 
