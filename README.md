@@ -5,14 +5,11 @@ A dynamic weather application that retrieves and displays real-time weather data
 
 ## Table of Contents
 - [Description](#description)
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -39,7 +36,7 @@ The Weather App is a web-based application that allows users to check the curren
 ## Setup
 
 1. Clone the repository:
- '''git clone https://github.com/yourusername/weather-app.git'''
+```git clone https://github.com/yourusername/weather-app.git```
 
 2. Open the project folder:
 3. 3. Open `index.html` in your preferred web browser.
